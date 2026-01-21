@@ -4,17 +4,10 @@ A deep learning project that uses a Recurrent Neural Network (RNN) to classify t
 Dataset: Labeled restaurant/customer review dataset
 
 Preprocessing:
-
 Lowercasing
-
 Removal of punctuation
-
 Tokenization
-
 Padding sequences
-
 Evaluation Metrics:
-
 Accuracy
-
 Loss
